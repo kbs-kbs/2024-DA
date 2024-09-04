@@ -1,5 +1,9 @@
 # 2024-DA
 ## 도구
+- 파이썬
+- R
+- 엑셀
+- SQL
 - Jupyter Notebook
 - Google CoLab
 - Visual Studio Code
