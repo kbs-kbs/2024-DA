@@ -6,3 +6,9 @@ plt.plot([1, 2, 3, 4], [10, 20, 30, 40], color(색상), linestyle(선모양), ma
 마커 암기 x
 
 '(선모양)(색상)(마커)' <- 단축
+
+random과 np.random 차이
+
+섭플롯
+
+data.cumsum 시험 나옴
