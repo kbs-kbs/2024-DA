@@ -15,3 +15,17 @@ data.cumsum 시험 나옴
 
 
 bar나 scatter 
+
+vstack con~ r_
+
+shape
+
+파일 읽는 방법 온라인 강의
+
+hist
+
+subplot
+subplots
+add_subplot
+
+3중 1
