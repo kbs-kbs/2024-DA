@@ -12,3 +12,6 @@ random과 np.random 차이
 섭플롯
 
 data.cumsum 시험 나옴
+
+
+bar나 scatter 
