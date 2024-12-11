@@ -2,3 +2,4 @@
 - df.loc[len(df)]: 시험에x
 - `df.sort_index(axis=1, ascending=False)` # 인덱스 정렬에 axis 필요한 이유? false일때만 axis 통하는 이유
 - 인덱스 순서 바꾸지 않고 컬럼 순서 바꾸는 방법
+- ox, 괄호, 객관식, 맵 코드 문제, 데이터프레임 코드 문제, hist + random.choice 문제 예제 참고, age.csv 제주 연령별 plt.scatter 컬러 지정 등 사용해서 그림 그리기
