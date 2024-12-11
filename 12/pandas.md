@@ -1,2 +1,3 @@
-df.append(): 사라질 메서드 시험에 안나옴
-df.loc[len(df)]: 시험에x
+- df.append(): 사라질 메서드 시험에 안나옴
+- df.loc[len(df)]: 시험에x
+- `df.sort_index(axis=1, ascending=False)` # 인덱스 정렬에 axis 필요한 이유?
