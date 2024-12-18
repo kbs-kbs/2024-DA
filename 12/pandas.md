@@ -14,6 +14,14 @@ result = map(lambda x: x * 2, numbers)
 print(list(result))
 ```
 
+- `random.rand()`: [0, 1) 난수 하나
+- `random.rand(3)`: [0, 1) 난수 채워진 (3) 모양의 배열 생성
+- `random.rand(2, 3)`: [0, 1) 난수 채워진 (2, 3) 모양의 배열 생성
+- `random.random((2, 3))`: [0, 1) 난수 채워진 (2, 3) 모양의 배열 생성
+- `random.random(size=(2, 3))`: 위와 동일
+- `random.randn(2, 3)`: 정규분포를 따르는 난수 
+
+
 ```python
 import pandas as pd
 
