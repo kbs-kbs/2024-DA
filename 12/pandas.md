@@ -14,6 +14,7 @@ result = map(lambda x: x * 2, numbers)
 print(list(result))
 ```
 
+- `random.randint(1, 11, (8, 4))`
 - `random.rand()`: [0, 1) 난수 하나
 - `random.rand(3)`: [0, 1) 난수 채워진 (3) 모양의 배열 생성
 - `random.rand(2, 3)`: [0, 1) 난수 채워진 (2, 3) 모양의 배열 생성
