@@ -6,18 +6,15 @@
 - 1월 중 특강
 - 
 
-```
-# 숫자 리스트
+```python
 numbers = [1, 2, 3, 4, 5]
 
-# map 함수와 람다 함수 사용
 result = map(lambda x: x * 2, numbers)
 
-# 결과를 리스트로 변환하여 출력
 print(list(result))
 ```
 
-```
+```python
 import pandas as pd
 
 # 시리즈 생성
@@ -28,7 +25,7 @@ series = pd.Series(data, index=index)
 print(series)
 ```
 
-```
+```python
 dice = np.random.choice(range(1, 7), 1000000, p = [0.15, 0.25, 0.3, 0.1, 0.1, 0.1])
 plt.figure(figsize=(5, 3), dpi=200)
 
@@ -39,7 +36,7 @@ plt.savefig('주사위.png')
 plt.show()
 ```
 
-```
+```python
 f = open('gender.csv', encoding='cp949')
 data = csv.reader(f)
 header = next(data)
@@ -72,7 +69,7 @@ plt.show()
 ```
 
 
-```
+```python
 np.random.seed(2025)
 
 N = 80
